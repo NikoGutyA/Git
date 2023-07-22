@@ -1,0 +1,2 @@
+Hoy los temas tratados son taller de git
+Que es un sistema de versiones
